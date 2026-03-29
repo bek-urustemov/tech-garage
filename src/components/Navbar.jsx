@@ -17,7 +17,7 @@ export default function Navbar() {
       <div className="container topbar-inner">
         <Link to="/" className="brand">
           <span className="brand-mark" />
-          <span className="brand-text">tech garage</span>
+          <span className="brand-text">world of tech stuff</span>
         </Link>
 
         <form className="topbar-search" onSubmit={onSearch}>
